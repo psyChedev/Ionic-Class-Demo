@@ -5,4 +5,8 @@ void main()
   clrscr
   getch()
   achi hai
+  void hello()
+  {
+  a+b=c;
+  }
 }
